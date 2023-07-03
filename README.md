@@ -6,3 +6,5 @@
 
 * This is an image of a drum kit.
 ![Drum Kit Game](images/Drum_kit.png)
+
+<img src="images/Drum_kit.png" alt="Drum Kit Game Image">
